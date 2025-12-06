@@ -27,3 +27,14 @@ For paper reference (Bibtex)
   issn={2184-4321},
 }
 ```
+
+```
+@article{chuquimarca2025assessing,
+  title={Assessing deep learning model robustness for banana ripeness classification under varying illumination conditions},
+  author={Chuquimarca, Luis E and Vintimilla, Boris X and Velastin, Sergio A},
+  journal={Smart Agricultural Technology},
+  pages={101333},
+  year={2025},
+  publisher={Elsevier}
+}
+```

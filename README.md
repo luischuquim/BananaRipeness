@@ -14,10 +14,10 @@ The synthetic dataset developed consists of 161,280 images of Cavendish bananas.
 <div align="center">
 
   <!-- First row -->
-  <img src="404.png" width="24%">
-  <img src="404_LIME_0_1.png" width="24%">
-  <img src="404_LIME_0_2.png" width="24%">
-  <img src="404_LIME_0_3.png" width="24%"><br><br>
+  <img src="404 (3).png" width="24%">
+  <img src="404_LIME_0_1 (3).png" width="24%">
+  <img src="404_LIME_0_2 (3).png" width="24%">
+  <img src="404_LIME_0_3 (3).png" width="24%"><br><br>
 
   <b>a)</b> Original &nbsp;&nbsp;
   <b>b)</b> (Γ = 0.1) &nbsp;&nbsp;
@@ -27,10 +27,10 @@ The synthetic dataset developed consists of 161,280 images of Cavendish bananas.
   <br><br>
 
   <!-- Second row -->
-  <img src="404_LIME_0_4.png" width="24%">
-  <img src="404_LIME_0_5.png" width="24%">
-  <img src="404_LIME_0_6.png" width="24%">
-  <img src="404_LIME_0_7.png" width="24%"><br><br>
+  <img src="404_LIME_0_4 (3).png" width="24%">
+  <img src="404_LIME_0_5 (3).png" width="24%">
+  <img src="404_LIME_0_6 (3).png" width="24%">
+  <img src="404_LIME_0_7 (3).png" width="24%"><br><br>
 
   <b>e)</b> (Γ = 0.4) &nbsp;&nbsp;
   <b>f)</b> (Γ = 0.5) &nbsp;&nbsp;

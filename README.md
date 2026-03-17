@@ -10,6 +10,45 @@ The synthetic dataset developed consists of 161,280 images of Cavendish bananas.
 
 ![Image text](sintetica.png)
 
+# anana Ripeness Classification under Varying Illumination
+<div align="center">
+
+  <!-- First row -->
+  <img src="404.png" width="24%">
+  <img src="404_LIME_0_1.png" width="24%">
+  <img src="404_LIME_0_2.png" width="24%">
+  <img src="404_LIME_0_3.png" width="24%"><br><br>
+
+  <b>a)</b> Original &nbsp;&nbsp;
+  <b>b)</b> (Γ = 0.1) &nbsp;&nbsp;
+  <b>c)</b> (Γ = 0.2) &nbsp;&nbsp;
+  <b>d)</b> (Γ = 0.3)
+
+  <br><br>
+
+  <!-- Second row -->
+  <img src="404_LIME_0_4.png" width="24%">
+  <img src="404_LIME_0_5.png" width="24%">
+  <img src="404_LIME_0_6.png" width="24%">
+  <img src="404_LIME_0_7.png" width="24%"><br><br>
+
+  <b>e)</b> (Γ = 0.4) &nbsp;&nbsp;
+  <b>f)</b> (Γ = 0.5) &nbsp;&nbsp;
+  <b>g)</b> (Γ = 0.6) &nbsp;&nbsp;
+  <b>h)</b> (Γ = 0.7)
+
+  <br><br>
+
+  <!-- Caption -->
+  <i>
+  Figure. Banana images showing progressive brightness enhancement as the gamma value (Γ) increases from 0.1 to 0.7, using the LIME model.
+  </i>
+
+</div>
+
+
+
+
 
 For paper reference (Bibtex)
 
